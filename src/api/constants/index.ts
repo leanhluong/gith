@@ -1,0 +1,1 @@
+export * as ENDPOINTS from './ENDPOINTS'

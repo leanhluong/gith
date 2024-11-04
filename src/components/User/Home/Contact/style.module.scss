@@ -1,0 +1,13 @@
+.contact-section-wrapper {
+	select {
+		color: rgba(33, 77, 41, 0.85);
+
+		&[data-selected='true'] {
+			color: rgba(33, 77, 41, 1);
+		}
+
+		option {
+			color: rgba(33, 77, 41, 1);
+		}
+	}
+}

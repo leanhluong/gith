@@ -1,0 +1,10 @@
+.login-wrapper {
+	:global {
+		.ant-col-offset-8 {
+			margin-inline-start: 0;
+			span {
+				text-wrap: nowrap;
+			}
+		}
+	}
+}
